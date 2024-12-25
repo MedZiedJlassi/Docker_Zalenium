@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-23T23:02:19Z" name="Suite" finished-at="2024-12-23T23:03:04Z" duration-ms="45405">
+    <groups>
+    </groups>
+    <test started-at="2024-12-23T23:02:19Z" name="Test" finished-at="2024-12-23T23:03:04Z" duration-ms="45405">
+      <class name="testCases.ExecuteTestZaleniumFirefox2">
+        <test-method signature="test1()[pri:0, instance:testCases.ExecuteTestZaleniumFirefox2@481ba2cf]" started-at="2024-12-24T00:02:19Z" name="test1" finished-at="2024-12-24T00:03:03Z" duration-ms="43880" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- testCases.ExecuteTestZaleniumFirefox2 -->
+      <class name="testCases.ExecuteTestZaleniumFirefox">
+        <test-method signature="test1()[pri:0, instance:testCases.ExecuteTestZaleniumFirefox@39ac0c0a]" started-at="2024-12-24T00:02:19Z" name="test1" finished-at="2024-12-24T00:03:04Z" duration-ms="45280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- testCases.ExecuteTestZaleniumFirefox -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
